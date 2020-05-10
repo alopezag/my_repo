@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>alopezag.github.io/my_repo/</loc>
+    <loc>https://alopezag.github.io/my_repo/</loc>
     <lastmod>2020-05-10T11:17:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>alopezag.github.io/my_repo/posts/</loc>
+    <loc>https://alopezag.github.io/my_repo/posts/</loc>
     <lastmod>2020-05-10T11:17:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>alopezag.github.io/my_repo/posts/second-post/</loc>
+    <loc>https://alopezag.github.io/my_repo/posts/second-post/</loc>
     <lastmod>2020-05-10T11:17:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>alopezag.github.io/my_repo/posts/my-first-post/</loc>
+    <loc>https://alopezag.github.io/my_repo/posts/my-first-post/</loc>
     <lastmod>2020-05-10T11:08:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>alopezag.github.io/my_repo/categories/</loc>
+    <loc>https://alopezag.github.io/my_repo/categories/</loc>
   </url>
   
   <url>
-    <loc>alopezag.github.io/my_repo/tags/</loc>
+    <loc>https://alopezag.github.io/my_repo/tags/</loc>
   </url>
   
 </urlset>

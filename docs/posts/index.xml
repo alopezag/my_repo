@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MSIG XXI - My New Hugo Site</title>
-    <link>alopezag.github.io/my_repo/posts/</link>
+    <link>https://alopezag.github.io/my_repo/posts/</link>
     <description>Recent content in Posts on MSIG XXI - My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2020 11:17:16 +0200</lastBuildDate>
     
-	<atom:link href="alopezag.github.io/my_repo/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alopezag.github.io/my_repo/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why do we use it</title>
-      <link>alopezag.github.io/my_repo/posts/second-post/</link>
+      <link>https://alopezag.github.io/my_repo/posts/second-post/</link>
       <pubDate>Sun, 10 May 2020 11:17:16 +0200</pubDate>
       
-      <guid>alopezag.github.io/my_repo/posts/second-post/</guid>
+      <guid>https://alopezag.github.io/my_repo/posts/second-post/</guid>
       <description>Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;lsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy.</description>
     </item>
     
     <item>
       <title>My First Post in Hugo</title>
-      <link>alopezag.github.io/my_repo/posts/my-first-post/</link>
+      <link>https://alopezag.github.io/my_repo/posts/my-first-post/</link>
       <pubDate>Sun, 10 May 2020 11:08:19 +0200</pubDate>
       
-      <guid>alopezag.github.io/my_repo/posts/my-first-post/</guid>
+      <guid>https://alopezag.github.io/my_repo/posts/my-first-post/</guid>
       <description>This is a sample of a post using the Hugo Builder.
 This is awesome!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum gravida orci, non ullamcorper tortor scelerisque at. Suspendisse sodales sem nec elit feugiat interdum. Curabitur sit amet ex varius, rhoncus libero sed, vestibulum odio. Mauris mollis massa justo, ac vehicula justo euismod id. Nam egestas tempus diam in interdum. Cras in tempus diam, sit amet scelerisque sem.</description>

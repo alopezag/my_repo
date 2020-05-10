@@ -1,4 +1,4 @@
-baseURL = "alopezag.github.io/my_repo/"
+baseURL = "https://alopezag.github.io/my_repo/"
 languageCode = "en-us"
 title = "MSIG XXI - My New Hugo Site"
 theme = "ananke"
